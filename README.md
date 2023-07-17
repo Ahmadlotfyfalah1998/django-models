@@ -1,5 +1,5 @@
-## LAB - Class 27
-## Project: Django Models
+## LAB - Class 28
+## Project: Django C R U D
 ## Author: ahmad falah
 
 ## How to initialize/run your application (where applicable)
